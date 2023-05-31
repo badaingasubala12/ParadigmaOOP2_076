@@ -15,6 +15,7 @@ class orang {
 		}
 };
 
+
 class manusia {
 
 		public:

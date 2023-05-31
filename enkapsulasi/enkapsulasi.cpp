@@ -27,4 +27,4 @@ int main() {
 	cout << lampuRumah.getsaklarNo(3) << endl;
 
 	return 0;
-}
+} 

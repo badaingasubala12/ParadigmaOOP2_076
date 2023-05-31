@@ -11,7 +11,7 @@ public:
 		cout << "orang dibuat dengan umur " << umur << "\n" << endl;
 	}
 
-};
+}; 
 
 class pekerja : public orang {
 public:
